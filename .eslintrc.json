@@ -1,0 +1,14 @@
+{
+    "parser": "esprima",
+    "rules": {
+        "semi": "error",
+        "quotes": [
+            2,
+            "single"
+        ],
+        "quote-props": [
+            2,
+            "as-needed"
+        ]
+    }
+}
