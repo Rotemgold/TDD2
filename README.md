@@ -37,11 +37,3 @@ $ npm install
 ```shell
 $ npm run test
 ```
-### Example
-> If everything is working well, you will see the following out in your console:
-
-![Alt text](https://github.com/guy490/TDD/blob/master/ImageOfTests.jpg?raw=true "Title")
-
-## Running the features
-
-* Run the features from your terminal
