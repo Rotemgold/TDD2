@@ -1,0 +1,7 @@
+We used API used for search books called openlibrary , with this API we used for search
+books by author name.
+The first feature we made is to view all books that found from author search and view them
+in reverse order from z to a(the names we received from API is ordered from a to z) and
+make the first letter in each name to be Capital.
+The second feature is to take all the subjects in the books we found from the search and
+view them in a list and make the first letter for each subject name to be Capital.
